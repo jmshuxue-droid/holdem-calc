@@ -1,0 +1,15 @@
+{
+  "name": "홀덤 승률 계산기",
+  "short_name": "홀덤계산기",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#076324",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3093/3093952.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
